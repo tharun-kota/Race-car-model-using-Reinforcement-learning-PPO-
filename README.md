@@ -3,6 +3,8 @@
 ## Overview
 
 This project explores training autonomous car agents using deep reinforcement learning (RL) methods to navigate a custom environment. Two different input modalities were compared: a **Single-Stack Image Agent** and a **Stacked Frame Agent**, each implemented using the **Proximal Policy Optimization (PPO)** algorithm in the Unity ML-Agents environment.
+![highway](https://github.com/user-attachments/assets/842ec210-ca88-4dff-a874-baa148e58b9f)
+
 
 ## Methodology
 
